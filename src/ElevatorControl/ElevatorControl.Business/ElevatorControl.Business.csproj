@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ElevatorControl.Data\ElevatorControl.Data.csproj" />
+    <ProjectReference Include="..\ElevatorControl.Models\ElevatorControl.Models.csproj" />
+  </ItemGroup>
+
+</Project>
